@@ -3,3 +3,11 @@ chromadb
 openai
 unstructured
 tiktoken
+langchain
+langchain-community
+langchain-openai
+chromadb
+openai
+python-dotenv
+faiss-cpu
+unstructured[all-docs]
